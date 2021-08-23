@@ -1,0 +1,17 @@
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.exe
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.deps.json
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.runtimeconfig.json
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.runtimeconfig.dev.json
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.dll
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\WebScrapperStock.pdb
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\HtmlAgilityPack.CssSelectors.dll
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.csproj.CopyComplete
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.dll
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.pdb
+C:\Users\Adrian\Desktop\dev\c#\WebScrapperStock\WebScrapperStock\obj\Debug\netcoreapp3.1\WebScrapperStock.genruntimeconfig.cache
