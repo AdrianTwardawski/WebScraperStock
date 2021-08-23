@@ -10,7 +10,7 @@ namespace WebScrapperStock
     {
         private const string BaseUrl = "https://www.bankier.pl/gielda/notowania/akcje";
 
-        public void GetStocks()
+        public IEnumerable<StockModel> GetStocks()
         {
             var web = new HtmlWeb();
             var document = web.Load(BaseUrl);
@@ -23,8 +23,8 @@ namespace WebScrapperStock
                 var walor = tds[0].QuerySelector("a").InnerText;          
                 var kurs = tds[1].InnerText;
                 var zmiana = tds[2].InnerText;
-                
-                Console.WriteLine($"Nazwa: {walor}, Kurs: {kurs}, Zmiana: {zmiana}");
+                               
+                yield return new StockModel(walor, kurs, zmiana);
 
                 
             }
