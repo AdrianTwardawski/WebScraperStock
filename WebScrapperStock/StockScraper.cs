@@ -18,14 +18,12 @@ namespace WebScrapperStock
 
             foreach (var tableRow in tableRows)
             {
-                var tds = tableRow.QuerySelectorAll("td a");
-                var walor = tds[0].InnerText;
+                var tds = tableRow.QuerySelectorAll("td");
 
-                var tds2 = tableRow.QuerySelectorAll("td");
-                var kurs = tds2[1].InnerText;
-
-                var zmiana = tds2[2].InnerText;
-
+                var walor = tds[0].QuerySelector("a").InnerText;          
+                var kurs = tds[1].InnerText;
+                var zmiana = tds[2].InnerText;
+                
                 Console.WriteLine($"Nazwa: {walor}, Kurs: {kurs}, Zmiana: {zmiana}");
 
                 

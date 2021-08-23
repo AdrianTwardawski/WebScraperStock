@@ -8,13 +8,7 @@ namespace WebScrapperStock
         {
             var stockScraper = new StockScraper();
 
-            /*var stocks =*/ stockScraper.GetStocks();
-
-            //foreach (var stock in stocks)
-            //{
-            //    Console.WriteLine($"Nazwa: {stock.Walor}");
-            //}
-
+            stockScraper.GetStocks();
         }
     }
 }
